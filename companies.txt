@@ -1,0 +1,10 @@
+tcs
+wipro
+infosys
+msys
+siemen
+mphasys
+cognizant
+capgemini
+ntt
+continental
